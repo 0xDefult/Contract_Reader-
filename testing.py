@@ -8,7 +8,7 @@ API_KEY = "f7bc919c-53b5-4453-a89f-be1678d64717"
 API_URL = "https://hackatime.hackclub.com/api/hackatime/v1/users/current/heartbeats"
 # IMPORTANT: Use a project name that actually exists in your dashboard 
 # because 'exclude_unknown_project' is set to true in your config.
-PROJECT_NAME = "Signsafe" 
+PROJECT_NAME = "SignSafe" 
 FILE_NAME = "/Users/0xdefault/Desktop/SignSafe/backend/prompts/analyze_prompt.txt" # This can be any file path, but using a consistent one helps with realism.     
 
 def boost_coding_time(hours_to_add):
